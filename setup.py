@@ -27,7 +27,7 @@ if pip_version >= (1, 5):
 
 setup(
     name='helga-hipchat-nicks',
-    version='0.1.0',
+    version='0.1.1',
     description='A helga preprocessor to ensure that user nicks are set as @ mentions',
     classifiers=[
         'Development Status :: 4 - Beta',
